@@ -31,7 +31,7 @@
     "bootstrap": "5.*",
     "chart.js": "2.*",
     "jquery": "^3.6.4",
-    "jquery-ui-dist": "1.12.*",
+    "jquery-ui-dist": "1.13.2",
     "pace-js": "1.*",
     "select2": "^4.0.13"
   }
